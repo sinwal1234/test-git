@@ -1,2 +1,2 @@
-20223161 kang hyun
+20223161   kanghyun
 Kookim Univ. AI
